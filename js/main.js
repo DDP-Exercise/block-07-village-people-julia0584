@@ -2,7 +2,7 @@
 import Village from "./class.village.js";
 
 /*******************************************************
- *    The Village People - 100p
+ *    The Villagesss Peoplesss - 100p
  *
  *    It's the year 980. We need you to start the digital
  *    revolution (just accept that scenario :D)!
