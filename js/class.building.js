@@ -3,7 +3,7 @@
  * Create a Building class. Each Building should have
  * - a name
  * - a capacity
- * - an array of its residents
+ * - an array of its resident
  *
  * Each Building should provide methods to
  * - addResident(citizen)
