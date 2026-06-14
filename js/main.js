@@ -2,7 +2,7 @@
 import Village from "./class.village.js";
 
 /*******************************************************
- *    The Village People - 100p
+ *    The Villagesss Peoplesss - 100p
  *
  *    It's the year 980. We need you to start the digital
  *    revolution (just accept that scenario :D)!
@@ -31,7 +31,7 @@ import Village from "./class.village.js";
  * The King wants to test your program with his newest village: Steyr
  * Obviously, you should write a class, so we can create villages.
  * **/
-let steyr = new Village("Steyr");
+let steyr = new Village("Steyr"); //neus Klassenobjekt wird erstellt
 
 /**
  * The royal administration then wants to add Buildings to a new village.
@@ -98,7 +98,7 @@ steyr.shelterTheWorthy();
 steyr.printCitizenDirectory();
 
 
-//Helper Function to shuffle arrays
+//Helper Function to shuffle array
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
