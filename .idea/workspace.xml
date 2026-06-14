@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e542fbc-1ce9-4d60-b7d4-327f795bd0f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.building.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.building.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.citizen.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.citizen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.nobleBuilding.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.nobleBuilding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.nobleCitizen.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.nobleCitizen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.village.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.village.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +58,7 @@
       <workItem from="1780306300971" duration="8770000" />
       <workItem from="1780830712426" duration="736000" />
       <workItem from="1781076904780" duration="150000" />
-      <workItem from="1781440684279" duration="4298000" />
+      <workItem from="1781440684279" duration="4511000" />
     </task>
     <servers />
   </component>
